@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\Main menu\\MainMenu\\menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C22A9BFC-6BDC-8E53-6E8C-F3C538F15AC4}|Assembly-CSharp.csproj|e:\\github\\main menu\\mainmenu\\menu\\assets\\scripts\\backgroundchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22A9BFC-6BDC-8E53-6E8C-F3C538F15AC4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackgroundChanger.cs",
+              "DocumentMoniker": "E:\\GitHub\\Main menu\\MainMenu\\menu\\Assets\\scripts\\BackgroundChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\BackgroundChanger.cs",
+              "ToolTip": "E:\\GitHub\\Main menu\\MainMenu\\menu\\Assets\\scripts\\BackgroundChanger.cs",
+              "RelativeToolTip": "Assets\\scripts\\BackgroundChanger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T17:19:26.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
